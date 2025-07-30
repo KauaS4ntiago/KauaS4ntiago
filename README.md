@@ -1,4 +1,4 @@
-Olá! Me chamo Kauã Santiago 👋
+## Olá! Me chamo Kauã Santiago 👋
 
 - 🪪 18 anos, Pernambuco | Brasil
 - 🔭 Perfil dedicado aos estudos
@@ -34,6 +34,9 @@ Olá! Me chamo Kauã Santiago 👋
 
 <br/>
 <br/>
+- Novas ferramentas em breve
+
+---
 
 ### 📊 Estatísticas
 
