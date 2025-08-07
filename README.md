@@ -71,9 +71,10 @@
 ### 📊 Estatísticas
 
 <p>
- 
-
-<img 
+ <img 
+ [Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaS4ntiago&show_icons=true&theme=dark)
+   />
+<img     
       align="left" 
       alt="GitHub Stats" 
       height="200" 
