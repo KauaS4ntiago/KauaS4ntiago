@@ -83,18 +83,17 @@
  [Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaS4ntiago&show_icons=true&theme=dark)
    />
 <img     
-      align="left" 
+      align="" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaS4ntiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<img     
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=KauaS4ntiago&theme=tokyonight&show_icons=true"
+  />
+
 
 </p>
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/KauaS4ntiago/KauaS4ntiago/output/github-contribution-grid-snake-dark.svg](https://imgtu.com/es/upload/ek2tgxk1/github-contribution-grid-snake)">
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/KauaS4ntiago/KauaS4ntiago/output/github-contribution-grid-snake-dark.svg](https://imgtu.com/es/upload/ek2tgxk1/github-contribution-grid-snake)">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KauaS4ntiago/KauaS4ntiago/output/github-contribution-grid-snake.svg">
-</picture>
