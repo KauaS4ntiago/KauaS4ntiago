@@ -31,6 +31,14 @@
 />
 <img 
     align="left" 
+    alt="Spring boot"
+    title="Spring boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="CSS" 
     title="MySQL"
     width="30px" 
