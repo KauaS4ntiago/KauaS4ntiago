@@ -6,7 +6,7 @@
 
 ## Olá! Me chamo Kauã Santiago 👋
 
-- 🪪 18 anos, Pernambuco | Brasil
+- 🪪 19 anos, Pernambuco | Brasil
 - 🔭 Perfil dedicado aos estudos
 - 🌱 Estudante de Sistemas de Informação
 
@@ -101,24 +101,4 @@
 
 ---
 
-### 📊 Estatísticas
 
-<p>
- <img 
- [Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaS4ntiago&show_icons=true&theme=dark)
-   />
-<img     
-      align="" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaS4ntiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-<img     
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=KauaS4ntiago&theme=tokyonight&show_icons=true"
-  />
-
-
-</p>
