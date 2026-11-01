@@ -25,7 +25,6 @@
 - 📚 Studying **Back-end**, **Software Architecture** and **Artificial Intelligence**
 - 🌎 Learning **English** every day
 
-<br/>
 
 ## 🛠️ Technologies
 
@@ -53,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma" alt="Tools" />
 </p>
 
-<br/>
-
 ## 🌱 Currently studying
 
 <p>
@@ -64,7 +61,6 @@
   <img src="https://img.shields.io/badge/AI%20Agents-6B46C1?style=for-the-badge&logo=langchain&logoColor=white" alt="AI Agents" />
 </p>
 
-<br/>
 
 ## 📊 GitHub Stats
 
