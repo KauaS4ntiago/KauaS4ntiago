@@ -1,121 +1,83 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=132DAD&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
-</div>
 
-## Olá! Me chamo Kauã Santiago 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:132DAD,100:4F6BED&height=180&section=header&text=Kau%C3%A3%20Santiago&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Developer%20in%20Training&descAlignY=58&descSize=16" alt="Kauã Santiago | Information Systems Student" width="100%" />
 
-- 🪪 19 anos, Pernambuco | Brasil
-- 🔭 Perfil dedicado aos estudos
-- 🌱 Estudante de Sistemas de Informação
-
-<div> 
-  <a href="https://instagram.com/l1nkkaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kauaandrade1806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauã-santiago-ab8943323" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring boot"
-    title="Spring boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=132DAD&center=true&vCenter=true&random=false&width=560&lines=Welcome+to+my+profile!;Back-end+%7C+APIs+%7C+Data;Always+learning+something+new" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<a href="https://www.linkedin.com/in/kau%C3%A3-santiago-ab8943323" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:kauaandrade1806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://instagram.com/l1nkkaua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+</div>
+
+
+
+## 👋 About me
+
+- 🪪 19 years old, Pernambuco | Brazil
+- 🎓 Studying **Information Systems**
+- 💼 Experience in a **technology residency** building RESTful APIs, using Docker and agile methodologies
+- 🔍 Looking for opportunities as a **junior developer / intern**
+- 📚 Studying **Back-end**, **Software Architecture** and **Artificial Intelligence**
+- 🌎 Learning **English** every day
+
 <br/>
-- Novas ferramentas em breve
 
----
+## 🛠️ Technologies
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Languages" />
+</p>
+
+### 🧩 Frameworks and Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,flask,nodejs" alt="Frameworks" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma" alt="Tools" />
+</p>
+
+<br/>
+
+## 🌱 Currently studying
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Architecture-0F766E?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-132DAD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6B46C1?style=for-the-badge&logo=langchain&logoColor=white" alt="AI Agents" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauaS4ntiago&theme=github_dark" alt="Repositories per language" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaS4ntiago&theme=github_dark" alt="Account stats" width="400" />
+
+</div>
+
+</div>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:132DAD,100:4F6BED&height=100&section=footer" alt="Footer" width="100%" />
