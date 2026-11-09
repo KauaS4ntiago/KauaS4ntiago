@@ -37,7 +37,7 @@
 ### 🧩 Frameworks and Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,flask,nodejs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,flask,fastapi,nodejs" alt="Frameworks" />
 </p>
 
 ### 🗄️ Databases
